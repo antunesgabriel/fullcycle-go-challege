@@ -9,3 +9,10 @@ FullCycle rocks
 ```
 
 Imagem Go: https://hub.docker.com/repository/docker/antunesgabriel/fullcycle-go-challege
+
+
+Tamanho:
+```shell
+$ docker images | grep antunesgabriel/fullcycle-go-challege
+antunesgabriel/fullcycle-go-challege   latest    19a40d273e2b   15 minutes ago      1.17MB
+```
